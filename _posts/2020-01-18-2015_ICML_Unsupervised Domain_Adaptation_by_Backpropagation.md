@@ -1,6 +1,7 @@
 ---
 title: "[2015 ICML] Unsupervised Domain Adaptation by Backpropagation"
 categories: ML
+use_math : true
 ---
 
 처음으로 블로그를 시작해보려고 합니다.
@@ -17,4 +18,4 @@ categories: ML
 2. Label predictor (blue)
 3. Domain classifier (red)
 
-input $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+input x
